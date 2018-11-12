@@ -46,6 +46,8 @@ sp='Clemmys guttata'
 d <- occ(query= 'Clemmys guttata', from = 'gbif', limit = 1000) %>% occ2df(what = "all") 
 ```
 
+Figures will eventually be created. I had some difficulty and hopefully a classmate can help met out sometime. 
+
 # Results
 
 The results will show the occurence gbif of spotted turtles based on the citizen science program iNaturalist, and will hopefully shed light on where these creatures are present. Furthermore, the US fish and Wildlife Service National Wetlands Inventory will allow for the understanding of how the current projection of wetlands is correlated or not with the current obsrevation projection of the spotted turtle. 
