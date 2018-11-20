@@ -6,10 +6,14 @@ subtitle: Presence/Absence of spotted turtle with wetlands dynamics
 ---
 
 # Introduction
-Habitat fragmentation and degradation are undoubtedly a critcial player in the population dynamics of many species, due to humans manipulation of natural ecosystems. As the land cover on Earth is altered so drastically, we can witness species trying to react to such changes. This results in understanding how these species may or may not be able to react, resulting in conservation efferts. Understanding and assessing the dynamics of changes in wetlands and land cover provide evidence for species occurrence and where organisms will have suitable habitat to live. The spotted turtle is a small sized turtle with black coloration on the carapace, and bright yellow spots (Gibbs et al. 2007). They inhabit vernal pools in the spring, and upland forests in the summer, also inhabiting wet meadows, forested swamps, and sphagnum bogs (Gibbs et al. 2007). The spotted turtle can be found on the Great Lakes Plains south of Lake Ontario and east of Lake Erie, the lower Hudson river valley, and on Long Island. Aside from New York, spotted turtles are found as far north as Quebec, Canada, down to the state of Florida, and over to the central plains such as Illionis (Gibbs et al. 2007). The spotted turtle is declining throughout much of its range, and it is listed as a species of Special Concern in New York State. In New York the spotted turtle suffers from habitat fragmentation, wetland draining, suburban development, invasive wetland plants, road mortality (Lewis et al. 2004). Buchanan et al. 2017 states that their can be positive reactions from spotted turtles when specific parts of their habitat are specifically manipulated, however, Markle et al. 2018 warns that long-term habitat changes within specified habitats have implications for herpetofauna habitat management and restoration. With the assessment of wetlands in concert with occurrence citizen science data, the scope of this study is to address potential problems within habitat suitablity for the spotted turtle.      
+Habitat fragmentation and degradation are undoubtedly a critcial player in the population dynamics of many species, due to humans manipulation of natural ecosystems. As the land cover on Earth is altered so drastically, we can witness species trying to react to such changes. This results in understanding how these species may or may not be able to react, resulting in conservation efferts. Understanding and assessing the dynamics of changes in wetlands and land cover provide evidence for species occurrence and where organisms will have suitable habitat to live. The spotted turtle is a small sized turtle with black coloration on the carapace, and bright yellow spots (Gibbs et al. 2007). They inhabit vernal pools in the spring, and upland forests in the summer, also inhabiting wet meadows, forested swamps, and sphagnum bogs (Gibbs et al. 2007). The spotted turtle can be found on the Great Lakes Plains south of Lake Ontario and east of Lake Erie, the lower Hudson river valley, and on Long Island. Aside from New York, spotted turtles are found as far north as Quebec, Canada, down to the state of Florida, and over to the central plains such as Illionis (Gibbs et al. 2007). The spotted turtle is declining throughout much of its range, and it is listed as a species of Special Concern in New York State. In New York the spotted turtle suffers from habitat fragmentation, wetland draining, suburban development, invasive wetland plants, road mortality (Lewis et al. 2004). Buchanan et al. 2017 states that their can be positive reactions from spotted turtles when specific parts of their habitat are specifically manipulated, however, Markle et al. 2018 warns that long-term habitat changes within specified habitats have implications for herpetofauna habitat management and restoration. With the assessment of wetlands in concert with occurrence citizen science data, the scope of this study is to address potential problems within habitat suitablity for the spotted turtle. 
+
+-Good detailed introduction but maybe can be divided up a bit into different section since it is well over the 200 word suggestion 
 
 # Hypothesis/s
 The changes in wetlands habitat will result in less occurence of the spotted turtle. Areas of high land use changes will result in the displacement of spotted turtles, and places where wetlands hang on will possibly have the greatest occurrence of spotted turtles. 
+
+-Good inclusion of a hypothesis since it wasn't in the requirements
 
 # Materials and methods
 
@@ -17,11 +21,15 @@ Materials-
 
 Data: Occurence data for the spotted turtle will come from the Global Biodiversity Information Facility (GBIF), and the wetlands data will come from the US Fish and Wildlife Service National Wetlands Inventory. 
 
+-Good explanation of where the data comes from but maybe a little more detail can be helpful 
+
 Methods: 
 
 * Visualize the occurence of spotted turtles.
 * Visualize the presence of wetlands and their dynamic changes.
 * Correlate and overlay these occurences to understand and potenially provide insight into where spotted turtles are found, and where they may be found based on the changing dynamics of the nations wetlands. 
+
+-Good summary of what you will be doing 
 
 Load any required packages (you may need to install some packages):
 
@@ -54,8 +62,12 @@ ggplot(d,aes(x=longitude,y=latitude))+geom_point()
 # Results
 The results will show the occurence gbif of spotted turtles based on the citizen science program iNaturalist, and will hopefully shed light on where these creatures are present. Furthermore, the US fish and Wildlife Service National Wetlands Inventory will allow for the understanding of how the current projection of wetlands is correlated or not with the current obsrevation projection of the spotted turtle. 
 
+
 # Conclusions
 My take away from this project is to hopefully understand the geographical representation of the spotted turtle. Futhermore, with the addition of the wetlands inventory, I hope to point out the possible "hotspots", and a general overview of the conservation and biogeography of the spotted turtle. 
+
+-Results and conclusion provide good insight on the aims of the project 
+
 
 # References
 
