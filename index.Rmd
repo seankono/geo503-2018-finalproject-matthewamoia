@@ -2,7 +2,7 @@
 title: The occurence of Clemmys guttata (Spotted Turtle) with respect to wetland habitat
   suitability
 author: "Matthew Amoia"
-subtitle: Presence/Absence of spotted turtle with wetlands dynamics
+subtitle: Presence/Absence of spotted turtle with wetlands dynamics 
 ---
 
 # Introduction
